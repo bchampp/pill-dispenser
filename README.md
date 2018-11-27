@@ -6,3 +6,5 @@ Inside this repository are all of the software files created to make this possib
 The team used arduino as the basis of the hardware, and developed an iOS application to interface over bluetooth. 
 
 Brent Champion | 20066282
+
+Raed Fayad  |  20056723
