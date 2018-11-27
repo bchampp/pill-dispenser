@@ -8,3 +8,5 @@ The team used arduino as the basis of the hardware, and developed an iOS applica
 Brent Champion | 20066282
 
 Raed Fayad  |  20056723
+
+Daniel Tavernese | 20063727
