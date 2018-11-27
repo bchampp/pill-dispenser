@@ -1,0 +1,35 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ArduinoMain" >
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:layout_weight="2"
+        android:ems="10"
+        android:hint="Enter some text"
+        android:imeOptions="actionSend"
+        android:singleLine="true" />
+
+    <Button
+        android:id="@+id/functionOne"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="104dp"
+        android:text="Function 1" />
+
+    <Button
+        android:id="@+id/functionTwo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/functionOne"
+        android:layout_below="@+id/functionOne"
+        android:layout_marginTop="67dp"
+        android:text="Function 2" />
+
+</RelativeLayout>
