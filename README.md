@@ -8,7 +8,8 @@ The purpose of the project was a proof of concept pill dispenser to be used in n
 
 ## Prototype
 The physical image of the prototype can be seen below
-![alt text](https://github.com/bchampp/pill-dispenser/blob/master/images/prototype.png)
+
+<img src="images/prototype.png" width="300" >
 
 ## Authors
 - Brent Champion
