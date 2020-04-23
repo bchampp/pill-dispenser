@@ -10,10 +10,6 @@ The purpose of the project was a proof of concept pill dispenser to be used in n
 The physical image of the prototype can be seen below
 ![alt text](https://github.com/bchampp/pill-dispenser/blob/master/images/prototype.png)
 
-An Arduino Uno was used with a stepper motor, a 16x2 LCD display and a bluetooth module. A 3D model of the prototype illustrates the dispensing mechanism.
-![alt text](https://github.com/bchampp/pill-dispenser/blob/master/images/cad.png)
-
-
 ## Authors
 - Brent Champion
 - Rayad Faed
