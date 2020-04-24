@@ -2,15 +2,6 @@
 This project is a 3D printed pill-dispenser connected to a cross-platform app to control the schedule for dispensing pills.
 The purpose of the project was a proof of concept pill dispenser to be used in nursing homes.
 
-## Getting Started
-### iOS Application
-- Coming Soon!
-
-## Prototype
-The physical image of the prototype can be seen below
-
-<img src="images/prototype.png" width="300" >
-
 ## Authors
 - Brent Champion
 - Rayad Faed
