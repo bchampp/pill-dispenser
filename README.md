@@ -4,7 +4,7 @@ The purpose of the project was a proof of concept pill dispenser to be used in n
 
 ## Authors
 - Brent Champion
-- Rayad Fayad
+- Raed Fayad
 - Ricardo He
 - Daniel Tavernese
 
